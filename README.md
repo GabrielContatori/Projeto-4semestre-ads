@@ -1,2 +1,2 @@
 # Projeto-4semestre-ads
-projeto para aula de poo
+Diagramas para a tarefa de Projeto de Sistemas Orientado a Objetos
